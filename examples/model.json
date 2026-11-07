@@ -1,0 +1,23 @@
+{
+  "batchId": "mock-work",
+  "title": "Offline work batches",
+  "context": "Group mock tasks that can share a batch without pairwise conflict.",
+  "items": [
+    {
+      "id": "alpha",
+      "label": "Assemble paper cards"
+    },
+    {
+      "id": "beta",
+      "label": "Sort paper labels"
+    },
+    {
+      "id": "gamma",
+      "label": "Count paper cards"
+    },
+    {
+      "id": "delta",
+      "label": "Sketch card designs"
+    }
+  ]
+}
